@@ -6,3 +6,4 @@ Semester Project
 - Take details of processes as input (i-e Arrival time, Burst time and Priority)
 - Then produce Gantt chart of processes.
 - Different algorithm have different logic to schedule the processes
+- Made on July 2014
